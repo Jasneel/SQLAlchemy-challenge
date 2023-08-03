@@ -1,8 +1,3 @@
-# SQLAlchemy-challenge
-
-App.py Code as follows:
-
-
 import numpy as np
 import datetime as dt
 
